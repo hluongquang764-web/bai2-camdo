@@ -354,6 +354,7 @@ def home_page(request):
     }
     return render(request, 'quanly/home.html', context)
 ```
+<img width="982" height="515" alt="image" src="https://github.com/user-attachments/assets/40731b7c-1b27-46ef-ba5e-ba439e7e7536" />
 
 **home.html** sử dụng cú pháp Jinja2 của Django để hiển thị danh sách con nợ đến hạn.
 
