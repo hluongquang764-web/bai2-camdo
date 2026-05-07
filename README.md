@@ -367,37 +367,37 @@ def home_page(request):
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e7b3970-9fb1-416b-a729-0a624c1170c0" />
 
 
-📸 **Form thêm hợp đồng (FK hiển thị dạng dropdown):**
+ **Form thêm hợp đồng (FK hiển thị dạng dropdown):**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/642fcbd1-13e4-413d-b50f-2216e97fc691" />
 
 
 ### Trang con nợ đến hạn (local)
 
-📸 **Trang con nợ local:**
+**Trang con nợ local:**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbbb02f9-d737-49f7-bfbc-7a7aedd294a3" />
 
 
 ### Trang con nợ đến hạn (public qua Cloudflare Tunnel)
 
-📸 **Trang con nợ public:**
+ **Trang con nợ public:**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a23f87ef-7b4a-48b1-8afc-32b4ba6fa425" />
 
 ### phpMyAdmin - Kiểm tra FK lưu ID
 
-📸 **Danh sách bảng trong camdo_db:**
+ **Danh sách bảng trong camdo_db:**
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/403eef74-c972-4ac6-af4f-6776993827a9" />
 
 
-📸 **Bảng hopdongcam - FK lưu ID (khach_hang_id=1, tai_san_id=1):**
+ **Bảng hopdongcam - FK lưu ID (khach_hang_id=1, tai_san_id=1):**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61a3160d-13b4-4f86-a8ef-a6c451fce12d" />
 
 ---
 
-## 6. 🌐 Cloudflare Tunnel
+## 6.  Cloudflare Tunnel
 
 Sử dụng Cloudflare Tunnel để public ứng dụng ra internet:
 
