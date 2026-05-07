@@ -1,4 +1,4 @@
-<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/6eba2d73-6771-4743-bb70-e4504862b715" /># bai2-camdo
+# bai2-camdo
 #  Bài tập 02 - TEE0421: Quản lý Tiệm Cầm Đồ bằng Django
 
 **Sinh viên:** Lương Quang Hà  
